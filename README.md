@@ -1,4 +1,4 @@
-## Simple Toggle Sites
+## Google chrome extension boilerplate
 
 Basic Google chrome extension boilerplate using vue.js
 
